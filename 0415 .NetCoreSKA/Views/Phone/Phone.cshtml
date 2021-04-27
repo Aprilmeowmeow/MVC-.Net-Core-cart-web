@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Phone>
+@{
+    ViewData["Title"] = "Index";
+    string image = " ";
+}
+<h1>iPhones for Sale</h1>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Img)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InchSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @{
+                    image = item.Img + ".png";
+                }
+                <img src="@image" width="60px" hight="80px"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InchSize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                @Html.ActionLink("Purchase", "Purchase", routeValues: new { id = item.Id })
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

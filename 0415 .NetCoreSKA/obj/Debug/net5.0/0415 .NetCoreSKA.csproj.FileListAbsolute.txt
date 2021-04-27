@@ -1,0 +1,42 @@
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\appsettings.Development.json
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\appsettings.json
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.exe
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.deps.json
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.runtimeconfig.json
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.runtimeconfig.dev.json
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.dll
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\ref\0415 .NetCoreSKA.dll
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.pdb
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.Views.dll
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\bin\Debug\net5.0\0415 .NetCoreSKA.Views.pdb
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.csprojAssemblyReference.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.GeneratedMSBuildEditorConfig.editorconfig
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.AssemblyInfoInputs.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.AssemblyInfo.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.csproj.CoreCompileInputs.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.MvcApplicationPartsAssemblyInfo.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.RazorAssemblyInfo.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.RazorAssemblyInfo.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\staticwebassets\0415 .NetCoreSKA.StaticWebAssets.Manifest.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\staticwebassets\0415 .NetCoreSKA.StaticWebAssets.xml
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\scopedcss\bundle\0415 .NetCoreSKA.styles.css
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.TagHelpers.input.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.TagHelpers.output.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.RazorCoreGenerate.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.RazorTargetAssemblyInfo.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.RazorTargetAssemblyInfo.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.Views.pdb
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.dll
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\ref\0415 .NetCoreSKA.dll
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.pdb
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.genruntimeconfig.cache
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\0415 .NetCoreSKA.csproj.CopyComplete
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Phone\Phone.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\0415 .NetCoreSKA\0415 .NetCoreSKA\obj\Debug\net5.0\Razor\_ViewStart.cshtml.g.cs

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Phone>
+@{
+    ViewData["Title"] = "Index";
+    string image = "";
+    var toatal = 0;
+}
+<h1>iPhones in Cart</h1>
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Img)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Brand)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InchSize)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @{
+                    image = item.Img + ".png";
+                }
+                <img src="@image" width="60px" hight="80px" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brand)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InchSize)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    <tr>
+        <th>
+            Count:
+        </th>
+        <td>
+            @Model.Count()
+        </td>
+        <td>
+        </td>
+        <th>
+            Total:
+        </th>
+        <td>
+            @{
+                foreach (var item in Model)
+                {
+                    toatal += item.Price;
+                }
+            }
+            @toatal
+        </td>
+        <td>
+            <button>Order</button>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<a href="#" onclick="javascript:history.back();">Go Back</a>
